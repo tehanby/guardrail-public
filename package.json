@@ -25,12 +25,12 @@
     "nodejs",
     "cybersecurity"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Timothy Hanby <timothy.hanby@gmail.com>",
   "license": "Proprietary",
   "bugs": {
     "url": "https://github.com/tehanby/guardrail-public/issues"
   },
-  "homepage": "https://YOUR_STORE_SUBDOMAIN.lemonsqueezy.com",
+  "homepage": "https://guardrail-pro.lemonsqueezy.com,
   "dependencies": {},
   "engines": {
     "node": ">=18.0.0"
