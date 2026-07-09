@@ -46,7 +46,7 @@ To secure your commercial binary and unlock continuous threat signature definiti
 * Authorized activation limit across up to 15 hardware device instances.
 * Perfect for early-stage engineering pods and digital agencies protecting client intellectual property.
 
-👉 **Secure Your Workspace License Here:** [your-store-subdomain.lemonsqueezy.com](https://your-store-subdomain.lemonsqueezy.com)
+👉 **Secure Your Workspace License Here:** [guardrail-pro.lemonsqueezy.com](https://guardrail-pro.lemonsqueezy.com/)
 
 ---
 
