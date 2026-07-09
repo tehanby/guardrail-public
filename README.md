@@ -1,4 +1,4 @@
-# GuardRail Pro 🛡️
+# GuardRail-JS Pro 🛡️
 
 A zero-dependency local filesystem daemon designed to defend workstation environments from Adversary-in-the-Middle (AiTM) configuration poisoning targeting AI coding assistants.
 
