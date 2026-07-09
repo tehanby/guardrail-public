@@ -9,7 +9,7 @@ console.log('\nThis is the public core shell. To initialize the background daemo
 console.log('and enable active containment/rollback capabilities, you need to');
 console.log('deploy a verified commercial binary.');
 console.log('\n👉 Get your Solo or Team license key at:');
-console.log('\x1b[34mhttps://YOUR_STORE_SUBDOMAIN.lemonsqueezy.com\x1b[0m\n');
+console.log('\x1b[34mhttps://guardrail-pro.lemonsqueezy.com\x1b[0m\n');
 
 const rl = readline.createInterface({
     input: process.stdin,
