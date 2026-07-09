@@ -1,0 +1,39 @@
+{
+  "name": "guardrail-public",
+  "version": "1.0.0",
+  "description": "Zero-dependency local firewall blocking malicious npm/pip dependencies from silently hijacking your Claude and Cursor AI configurations.",
+  "main": "index.js",
+  "bin": {
+    "guardrail-js": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "protect": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tehanby/guardrail-public.git"
+  },
+  "keywords": [
+    "security",
+    "claude",
+    "cursor-ai",
+    "firewall",
+    "ai-safety",
+    "mcp-proxy",
+    "malware-protection",
+    "nodejs",
+    "cybersecurity"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/tehanby/guardrail-public/issues"
+  },
+  "homepage": "https://YOUR_STORE_SUBDOMAIN.lemonsqueezy.com",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": false
+}
